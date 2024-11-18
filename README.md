@@ -97,7 +97,4 @@ Find the complete project code [here](https://github.com/vandana-sahoo/Tech-Saks
 
 
 
-### Notes:  
-- Replace the placeholder link for the GitHub repository with the actual link if it differs.  
-- Add screenshots of your game and hand-tracking UI to make the README more visually appealing.  
-- Update the **Future Enhancements** section based on your plans for the project.  
+
