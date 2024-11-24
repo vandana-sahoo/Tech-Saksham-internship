@@ -1,4 +1,4 @@
-
+.
 ```markdown
 # Handy Wave Game 🎮🖐️  
 
